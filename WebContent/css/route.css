@@ -1,0 +1,72 @@
+body
+{
+	background-image:url(../img/background.jpg);
+	background-size: cover;
+	background-repeat:no-repeat;
+	min-height:100%;
+	background-position:center;
+	background-attachment:fixed;
+}
+
+h1
+{
+	color:white;
+	font-size:36px; 
+	font-weight: bold;
+	text-shadow: 10px 2px 14px rgba(150, 150, 150, 1);
+	-webkit-text-stroke: 1px black;
+}
+
+.routeTable
+{
+	background-color: white; 
+	box-shadow: 5px 10px 15px black;
+}
+
+.routeColumn
+{
+	width:80px;
+}
+
+.tubeIcon
+{
+	padding-left:3px;
+	padding-right:10px;
+	height:18px;
+}
+
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+
+.tablebottom
+{
+	margin-bottom: 10px;
+}
+
+.buttonbottom
+{
+	padding: 0;
+}
+
+.modelposition
+{
+	position:absolute;
+    left:0;
+    right:0;
+    margin-left:auto;
+    margin-right:auto;
+    top:30%;
+    overflow: hidden;
+}
+.hypercolor
+{
+	color: white;
+}
+
+.modal {
+    overflow: hidden;
+}
