@@ -1,16 +1,15 @@
 package com.group.servlets;
 
-import java.io.IOException;
-import java.util.ArrayList;
+import com.google.gson.Gson;
+import com.group.manager.RouteCalculator;
+import com.group.routeplanner.data.Route;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-
-import com.google.gson.Gson;
-import com.group.manager.RouteCalculator;
-import com.group.routeplanner.data.Route;
+import java.io.IOException;
+import java.util.ArrayList;
 
 public class GetRoute extends HttpServlet {
 	private static final long serialVersionUID = 1L;

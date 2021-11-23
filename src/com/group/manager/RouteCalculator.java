@@ -1,14 +1,10 @@
 package com.group.manager;
 
-import java.util.ArrayList;
-
 import com.group.routemap.RoutesMap;
 import com.group.routemap.TransitMap;
-import com.group.routeplanner.data.AltRouteDTO;
-import com.group.routeplanner.data.DijkstraEngine;
-import com.group.routeplanner.data.Route;
-import com.group.routeplanner.data.Station;
-import com.group.routeplanner.data.StationBuilder;
+import com.group.routeplanner.data.*;
+
+import java.util.ArrayList;
 
 public class RouteCalculator {
 	

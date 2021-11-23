@@ -1,31 +1,31 @@
 <?xml version="1.0"?>
 <network>
-	<line name="Bakerloo">
-		<station>Harrow and Wealdstone</station>
-		<station>Kenton</station>
-		<station>South Kenton</station>
-		<station>North Wembley</station>
-		<station>Wembley Central</station>
-		<station>Stonebridge Park</station>
-		<station>Harlesden</station>
-		<station>Willesden Junction</station>
-		<station>Kensal Green</station>
-		<station>Queen's Park</station>
-		<station>Kilburn Park</station>
-		<station>Maida Vale</station>
-		<station>Warwick Avenue</station>
-		<station>Paddington</station>
-		<station>Edgware Road</station>
-		<station>Marylebone</station>
-		<station>Baker Street</station>
-		<station>Regent's Park</station>
-		<station>Oxford Circus</station>
-		<station>Piccadilly Circus</station>
-		<station>Charing Cross</station>
-		<station>Embankment</station>
-		<station>Waterloo</station>
-		<station>Lambeth North</station>
-		<station>Elephant and Castle</station>
+	<line name="Legon Main-gate">
+		<station>YELF WORLD</station>
+		<station>Mekki Abass Cir</station>
+		<station>School of Continuing and distance Edu</station>
+		<station>Mirandus Enterprise</station>
+		<station>School of Eduction</station>
+		<station>School of Information Studies</station>
+		<station>Radio Universe</station>
+		<station>Dept. of Archeology</station>
+		<station>ETS drama Studio</station>
+		<station>Institution of African Studies</station>
+		<station>Department of Music</station>
+		<station>Bush canteen</station>
+		<station>Firer Service Ghana</station>
+		<station>Kwame Nkrumah complex</station>
+		<station>School of performing arts</station>
+		<station>JQB</station>
+		<station>College of Education</station>
+		<station>Internation programme office</station>
+		<station>United nations University</station>
+		<station>Department of Geography</station>
+		<station>Dept. of family and counselling </station>
+		<station>Department of Agriculture econs</station>
+		<station>west Africa center for crop improvement</station>
+		<station>PDMSD - Physical Development</station>
+		<station>Department of Humanities</station>
 	</line>
 	<line name="Central (Ruslip-Epping)">
 		<station>West Ruislip</station>
